@@ -1,4 +1,4 @@
-# Alura Album - Copa do Mundo Tech 🚀
+# Alura Album - Seleção Tech 🚀
 
 Este é o repositório do **Alura Album - Copa do Mundo Tech**, uma aplicação web interativa que funciona como um álbum de figurinhas virtual voltado para a história do desenvolvimento de software, reunindo grandes personalidades da tecnologia nacionais e internacionais.
 
